@@ -42,9 +42,9 @@ El backend está construido con Node.js y Express, y utiliza MySQL para el almac
 - MySQL
 - Axios (para solicitudes de API desde el frontend)
 
-## Configuración
+ Configuración:
 
-### Frontend
+ Frontend
 
 1. Navega al directorio `frontend`:
 
